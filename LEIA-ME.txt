@@ -1,0 +1,24 @@
+VILA CARIOCA BG — PÁGINA COMPLETA
+
+Esta é a versão refinada da página, com HTML, CSS, JavaScript, fotos, logo e vídeo.
+
+COMO ABRIR
+1. Extraia o ZIP inteiro para uma pasta.
+2. Abra index.html no seu navegador.
+Mantenha a pasta assets ao lado do index.html.
+
+COMO EDITAR
+index.html: textos, estrutura e links.
+style.css: cores, fontes e aparência.
+app.js: formulário, mensagem do WhatsApp e galeria.
+assets/: fotos, miniaturas, logo e vídeo.
+WhatsApp configurado: +55 86 98159-1102.
+
+COMO PUBLICAR EM OUTRA HOSPEDAGEM
+Envie index.html, style.css, app.js e a pasta assets para uma hospedagem de sites estáticos, mantendo a estrutura das pastas.
+Ao trocar de domínio, atualize no index.html os endereços das tags canonical, og:url e og:image.
+
+OBSERVAÇÕES
+O formulário prepara uma mensagem para o WhatsApp. Ele não armazena contatos, não verifica disponibilidade e não confirma reservas automaticamente.
+As fontes do Google, Google Maps, Instagram e WhatsApp precisam de internet.
+Alterações nesta cópia não são enviadas automaticamente para a página publicada.
